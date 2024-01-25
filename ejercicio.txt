@@ -1,0 +1,14 @@
+Realice un sistema para gestionar y administrar los estudiantes en una universidad. 
+- Cada estudiante tiene: Nombre, Apellidos, Usuario, Promedio y 0 o más proyectos entregados. 
+- Cada proyecto tiene: Nombre, Nota obtenida y fecha entregada
+
+El sistema debe permitir insertar, eliminar, actualizar tanto como un estudiante como un nuevo proyecto
+asociado.
+
+El promedio de un estudiante es la sumatoria de todas las notas obtenidas de cada proyecto entre su 
+cantidad.
+
+Cree una base de datos con las tablas necesarias y una api (restApi o grpc) que permita satisfacer el
+ejercicio.
+
+- Subir el code a Github
